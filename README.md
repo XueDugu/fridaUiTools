@@ -6,9 +6,6 @@ fridaUiTools是一个界面化整理脚本的工具。新人的练手作品。�
 
 功能缝合怪。把一些常用的frida的hook脚本简单统一输出方式后，整合进来。并且将自己觉得常用的功能做成界面调用的。还想动态获取一些信息默认的直接展示。后续会根据自己实战的经验。不断完善这个工具。
 
-## 交流群
-<img src="./img/qun.jpg" style="zoom:50%">
-
 ## 简单使用教程（更新中）
 [1、fridaUiTools不同环境的启动方式](https://www.bilibili.com/video/BV1td4y1n7QY/?vd_source=c92a6075a0b21bb6c62cbedbdd000519)
 
